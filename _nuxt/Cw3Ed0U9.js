@@ -1,1 +1,0 @@
-function r(){function e(t){return new Date(t).toLocaleDateString("en-US",{month:"short",day:"numeric"})}function n(t){return new Date(t).toLocaleDateString("en-US",{year:"numeric",month:"long",day:"numeric"})}return{formatDateShort:e,formatDateLong:n}}export{r as u};
