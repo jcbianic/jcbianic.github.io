@@ -1,0 +1,1 @@
+import{j as a}from"./BCmv5mQJ.js";function u(){const{locale:e}=a();function n(t){return new Date(t).toLocaleDateString(e.value,{month:"short",day:"numeric"})}function o(t){return new Date(t).toLocaleDateString(e.value,{year:"numeric",month:"long",day:"numeric"})}return{formatDateShort:n,formatDateLong:o}}export{u};
