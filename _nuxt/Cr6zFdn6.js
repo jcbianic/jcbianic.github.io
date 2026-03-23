@@ -1,0 +1,1 @@
+import{d as e,c as s,t as n,o}from"./BCmv5mQJ.js";const a={class:"font-mono text-xs text-zinc-400"},c=e({__name:"EmptyState",props:{message:{}},setup(t){return(_,m)=>(o(),s("p",a,n(t.message),1))}}),r=Object.assign(c,{__name:"EmptyState"});export{r as _};
