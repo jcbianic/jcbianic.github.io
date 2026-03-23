@@ -1,0 +1,1 @@
+import{l as e,a1 as s,a0 as n,O as a}from"./vendor-vue.CLqr9_cJ.js";const o={class:"font-mono text-xs text-zinc-400"},_=e({__name:"EmptyState",props:{message:{}},setup(t){return(c,m)=>(a(),s("p",o,n(t.message),1))}}),r=Object.assign(_,{__name:"EmptyState"});export{r as _};

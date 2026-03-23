@@ -1,1 +1,0 @@
-import{at as o}from"./vendor-vue.BBajfu6N.js";function u(){const{locale:e}=o();function n(t){return new Date(t).toLocaleDateString(e.value,{month:"short",day:"numeric"})}function a(t){return new Date(t).toLocaleDateString(e.value,{year:"numeric",month:"long",day:"numeric"})}return{formatDateShort:n,formatDateLong:a}}export{u};
